@@ -2,7 +2,7 @@
 
 ## 📋 Description
 
-Application Streamlit moderne pour la simulation et l'analyse des impacts des décisions de politique monétaire de la BEAC sur l'économie camerounaise. Ce modèle DSGE (Dynamic Stochastic General Equilibrium) permet d'évaluer quantitativement les effets des chocs économiques sur les principaux agrégats macroéconomiques.
+Simulation et l'analyse des impacts des décisions de politique monétaire de la BEAC sur l'économie camerounaise. Ce modèle DSGE (Dynamic Stochastic General Equilibrium) permet d'évaluer quantitativement les effets des chocs économiques sur les principaux agrégats macroéconomiques.
 
 ## 🎯 Objectifs
 
